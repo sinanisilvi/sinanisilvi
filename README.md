@@ -14,9 +14,9 @@ I enjoy learning new technologies and applying them to real projects, both in ac
 
 ## 📂 Selected Projects
 
-- [🐾 Social Network](https://github.com/RealSilvi/WEB-SilviSinani): Laravel + React demo of a social network for pets
-- [📊 Branch & Bound Solver](https://github.com/RealSilvi/OR-SilviSinani): Java project using IBM CPLEX to solve ILP problems
-- [🤖 Vacuum Robot](https://github.com/RealSilvi/A-SilviSinani): Pathfinding logic in ANSI C for a robot navigating a 2D grid
+- [🐾 Social Network](https://github.com/sinanisilvi/WEB-SilviSinani): Laravel + React demo of a social network for pets
+- [📊 Branch & Bound Solver](https://github.com/sinanisilvi/OR-SilviSinani): Java project using IBM CPLEX to solve ILP problems
+- [🤖 Vacuum Robot](https://github.com/sinanisilvi/A-SilviSinani): Pathfinding logic in ANSI C for a robot navigating a 2D grid
 
 ---
 
